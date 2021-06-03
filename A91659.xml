@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reply to a printed paper intituled The state of the adventurers case, in answer to a petition exhibited against them by the inhabitants of the Soake of Peterborow, which clearly demonstrates the said answer to consist of nothing but falsities and untruths, fallacies and equivocations, calumniations and detractions. : And for the better satisfaction of the reader, there is herewithall printed the petition itself, and the exceptions to the Act for drayning: : together with a paper which the undertakers (though falsly) stile a warrant for a taxe.</title>
+         </titleStmt>
+         <extent>Approx. 49KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91659</idno><idno type="EEBO-CITATION">43077581</idno>
+  <idno type="VID">151668</idno>
+  <idno type="EEBO-PROQUEST">2240915845</idno>
+  
+            <idno type="STC">Wing R1054</idno>
+            <idno type="STC">ESTC R182657</idno>
+            <idno type="OCLC">43077581</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91659)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151668)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2270:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reply to a printed paper intituled The state of the adventurers case, in answer to a petition exhibited against them by the inhabitants of the Soake of Peterborow, which clearly demonstrates the said answer to consist of nothing but falsities and untruths, fallacies and equivocations, calumniations and detractions. : And for the better satisfaction of the reader, there is herewithall printed the petition itself, and the exceptions to the Act for drayning: : together with a paper which the undertakers (though falsly) stile a warrant for a taxe.</title>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Pages have print show-through.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fens --  England --  Early works to 1800.</term>
+               <term type="topical_term">Reclamation of land --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151668:1"/>
+            <p>A REPLY TO A PRINTED PAPER Intituled the state of the Adventu<g ref="char:EOLhyphen"/>rers Case, in Answer to a Petition ex<g ref="char:EOLhyphen"/>hibited against them by the Inhabitants of the <hi>Soake</hi> of <hi>Peterborow,</hi> which cleare<g ref="char:EOLhyphen"/>ly demonstrates the said Answer to con<g ref="char:EOLhyphen"/>sist of nothing but falsities and untruthes, fallacies and equivocations, calumni<g ref="char:EOLhyphen"/>ations and detractions.</p>
+            <p>And for the better satisfaction of the Rea<g ref="char:EOLhyphen"/>der, there is herewithall printed the Petition it selfe, and the Exceptions to the Act for drayning:</p>
+            <p>Together with a Paper which the Undertakers (though falsly) stile a Warrant for a Taxe.</p>
+            <p>
+               <hi>Printed in the Yeare,</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:151668:2"/>
+            <pb n="1" facs="tcp:151668:2"/>
+            <head>
+               <hi>To the Supreame Authority of ENGLAND, Assembled in PARLIAMENT.</hi> The humble Petition of the Inhabitants of the <hi>Soake</hi> of <hi>Peterborow,</hi> within the County of <hi>Northam<g ref="char:EOLhyphen"/>pton,</hi> containing about forty Townes and Villages, whose names are hereunto subscribed.</head>
+            <opener>Humbly sheweth:</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners understand, by an Act lately passed, That the Earl of <hi>Bedford</hi> and his participants, (who may be Judges and Parties for ought we know, not being na<g ref="char:EOLhyphen"/>med) as Undertakers, are to Draine our Fennes in the <hi>Soake</hi> of <hi>Peterborow,</hi> which contain about eight thousand Acres, and are to have above three thousand out of them, upon these grounds as we hum<g ref="char:EOLhyphen"/>bly conceive: First, that we desired to be drained by them; Secondly, that we are fully heard; Thirdly, that our grounds were hurtfully surrounded, and of little or no value. To the first we denie, that we ever gave our consents, but contra<g ref="char:EOLhyphen"/>riwise, we alwayes opposed it; and if any Petitions were presented to that purpose, we protest against them. To the second, we attended many moneths at the Committee, but never had one witnesse examined. To the third, your Petitioners can prove, that our grounds are not hurtfully surrounded (as is suggested) but generally worth Tenne, Twelve, and Twenty shillings an Acre; which is very well knowne to a principall Engineere lately imployed by the said Adventurers, who for four hundred Acres would have secured all the residue from any hurtfull surround<g ref="char:EOLhyphen"/>ing, or over-flowing: the onely prejudice we receive, be<g ref="char:EOLhyphen"/>ing by the neglect of scowring some ancient Draines and Sewers by the said Earl in his Mannor of <hi>Thorney,</hi> and some new workes contrary to Law erected at <hi>Whittlesey,</hi> and elsewhere, which hurtfully surrounds many thousand Acres of rich Medows; yet the said Earle must have above
+<pb n="2" facs="tcp:151668:3"/> a third part of our Fen for melioration. Your Petitioners humbly re-minde this Honourable House, that in <hi>primo Ja<g ref="char:EOLhyphen"/>cobi</hi> the undertaking Draining was throwne out of this House for a Monopoly: Also your Honors, in your Grand and first Remonstrance of the fifteenth of <hi>December,</hi> 1641. adjudged it an <hi>Injustice, Oppression, Violence, Project,</hi> and <hi>Grievance;</hi> and in more expresse words thus; large quan<g ref="char:EOLhyphen"/>tities of Commons and Severals have beene taken away from the subject by the colour of the Statute of <hi>Improve<g ref="char:EOLhyphen"/>ment,</hi> and by abuse of the Commissions of Sewers, without their consents, and against it.</p>
+            <q>The humble desires of your Petitioners are; First, that they may enjoy the benefit of your Declaration, to maintaine our Proprieties, according to the Great Charter, and Pe<g ref="char:EOLhyphen"/>tition of <hi>Right,</hi> and that (according to the Statute of <hi>Im<g ref="char:EOLhyphen"/>provement</hi> your Petitioners may be at liberty to make the best of their own or that your Honours would be plea<g ref="char:EOLhyphen"/>sed to consider of our Exceptions against the said Act, which we humbly tender herewith unto your Honours: <hi>2.</hi> that in the meane time we may not be disquieted in our Possessions by the said Ʋndertakers: And lastly, that we may reap the benefit of your former Order, That no Member of this Honourable House, or any other person that is an Ʋndertaker, Sharer, Purchaser, near Alli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Lender of money, or shall have Colaterall Security upon the Ʋndertakers pretended shares of our Land, may bee Judges and Parties. And these things we are imboldned to crave of your Honors (although an Act of Parlia<g ref="char:EOLhyphen"/>ment be passed against us) from your own words laid down in your excellent Declaration of <hi>November, 1642.</hi> where you declare, it is the peoples Rights, and your Duty, to receive Petitions, though against things established by Law.</q>
+            <closer>
+               <signed>And your Petitioners shall pray, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="exceptions">
+            <pb n="3" facs="tcp:151668:3"/>
+            <head>Exceptions to the Act for draining of the great Levell, extending it selfe into the Counties of <hi>Northton.</hi> &amp;c.</head>
+            <p n="1">1. VVHeareas in the preamble of the Act, the great Le<g ref="char:EOLhyphen"/>vell is suggested to be such grounds, as by reason of the frequ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt overflowing, are of small and uncertaine profit; and under that notion doe include the Fenne in <hi>Pe<g ref="char:EOLhyphen"/>terborow Soake.</hi>
+            </p>
+            <p>
+               <hi>Except.</hi> We deny our Fen to be of that condition, being generally worth ten, twelve, and twenty shillings the Acre; And so they have erected their structure upon a false &amp; un<g ref="char:EOLhyphen"/>sound foundation, taking that for granted which is not.</p>
+            <p n="2">2. Another consideration for the passing this Act, is that the Earle of <hi>Bedford</hi> in the 13<seg rend="sup">th.</seg> yeare of King <hi>Charles,</hi> had ninety five thousand Acres decreed to him out of the said Levell, in recompence of his undertakings.</p>
+            <p>
+               <hi>Except.</hi> This decree was procured by bribing the King with 12000. Acres of the said Level, three thousand where<g ref="char:EOLhyphen"/>of was part of the Common of your Petitioners.</p>
+            <p n="3">3. It is further alleadged that the said Earle and his par<g ref="char:EOLhyphen"/>ticipants had made a good progresse therein.</p>
+            <p>
+               <hi>Except.</hi> The onely progresse they made, was to divide the said ninety five thousand Acres amongst themselves by lots and shares, as by the words of the said Act appears, for it was found by a Jury at <hi>Huntington,</hi> 14. <hi>Carol.</hi> that the said Earle and his Participants, had not meliorated the said Fennes.</p>
+            <p n="4">4. Whereas it is also suggested that by reason of some interruptions, the intended benefit of the Common-wealth hath been prevented and delayed.</p>
+            <p>
+               <hi>Except.</hi> The interruption they received were onely their own fears to proceed, because their undertakings were illegall, and their proceedings no just which never were be<g ref="char:EOLhyphen"/>neficiall, but destructive to the Common-wealth, as hath been declared by this present Parliament.</p>
+            <p n="5">5. Another inducement to passe the Act, is that the said Earle and his Participants are content to proceed in the said worke, and hold it out as businesse proper for the care of a Parliament.</p>
+            <pb n="4" facs="tcp:151668:4"/>
+            <p>
+               <hi>Excep.</hi> Wee conceive the Undertaken, many of them being persons disaffected, are so contented to the end they might render the Parliament distatefull to the peo<g ref="char:EOLhyphen"/>ple, and by consequence ruine them, by countenancing that which they had formerly adjudged, and demonstra<g ref="char:EOLhyphen"/>ted as a grievance in the case of Sir <hi>Robert Barkeham,</hi> Captaine <hi>Hall,</hi> and Mr. <hi>Walrond;</hi> and so might doe that by policy, which they could not doe by power.</p>
+            <p n="6">6. By the Act the Undertakers may leave 15000. Acres, for beds and receptacles for Water, besides Meres, Pooles, and Channels.</p>
+            <p>
+               <hi>Except.</hi> Under this pretence, they may (to Draine the Earle of <hi>Bedfords</hi> Lands, which are next adjoyning, and really hurtfully surrounded) make all our Common a receptacle for water.</p>
+            <p n="7">7. Many of the Commissioners are such which the Undertakers know will not attend, others are Underta<g ref="char:EOLhyphen"/>kers, sharers, or creditors directly or colaterally, and the Participants (not being named) may bee Commissioners for ought wee know, and these Commissioners have ab<g ref="char:EOLhyphen"/>solute and unlimited power by view, or otherwise as to them shall seeme meete without Juries (the life of the Law, and the peoples just freedome) to judge our grounds Drained, and put us out of possession; and in case wee bee grieved by their judgement, yet wee have no remedy but by appealing to themselves; and that in the Temple Hall in <hi>London,</hi> or whither they will adjourne whereby the re<g ref="char:EOLhyphen"/>medy is worse then the disease.</p>
+            <p n="8">8. Our Lands were heeretofore unjustly decreed to the sayd Earle, by colour of a Commission of Sewers, yet up<g ref="char:EOLhyphen"/>on this ground the Undertakers must have the same pro<g ref="char:EOLhyphen"/>portion againe, whether wee receive benefit or no; and we have no liberty by this act to seeke redresse, till first wee be put out of possession, and then the Commissioners have on<g ref="char:EOLhyphen"/>ly power for three yeares to give satisfaction, afterwards we be remedilesse.</p>
+            <p n="9">9. <hi>Except.</hi> Any five Commissioners may put us out of possession, but wee cannot be restored without fix, by the
+<pb n="5" facs="tcp:151668:4"/> ancient Commissioners of Sewers, there ought to be seven times fix, by reason there were seven Levels.</p>
+            <p n="10">10. <hi>Ex.</hi> In case any restitution bee made to any person or owner, it must be taken from another; the Undertakers must still keepe their shares, which is to engage the Coun<g ref="char:EOLhyphen"/>ties in Feuds and differences.</p>
+            <p n="11">11. <hi>Except.</hi> By the sayd Act, the River of <hi>Welland</hi> is not to be intermedled withall, which will be very prejudiciall to your Petitioners, for wee finde by constant experience, that in case wee bee not supplyed out of that River, our Grounds is of that condition, that our Cattle perish for want of water.</p>
+            <p n="12">12. <hi>Except.</hi> The Commissioners by the Act have power at discretion to make our Lands which they conceive im<g ref="char:EOLhyphen"/>proved, though not within the pretended Levell, to bee contributary to the Undertakers, so that no man knowes whether his Estate be free or no.</p>
+            <p n="13">13. <hi>Except.</hi> By the 43. of <hi>Elizabeth,</hi> commonly called the Statute of Improvement; it is enacted and provided that an Undertaker ought to have the Major part of the owners and commoners consents, which the Undertakers well knew, and therefore they suggested to the Parlia<g ref="char:EOLhyphen"/>ment, that your Petitioners did desire them to undertake it; and upon this ground when the sayd Undertakers heeretofore preferred a Bill for Drayning the sayd Levell; the Parliament Ordered that all the Counties concerned should have notice, that so they might object what they could against the sayd Bill, and accordingly the sayd Counties did attend and objected against it; and thereupon that Bill went no further.</p>
+            <p>Therefore wee humbly pray, that you will bee pleased by way of provisionall Act, or otherwise, that (wee not consenting) the Act may be repealed.</p>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:151668:5"/>
+            <opener>
+               <salute>VALENTINE PARKER, VVIL<g ref="char:EOLhyphen"/>LIAM MANNING, EDMUND BRAGDY.</salute>
+            </opener>
+            <head>To Peterborow:</head>
+            <p>WHereas it is apparant that the Ʋndertakers will take a large portion of the Commons, unless some speedy course be taken for prevention thereof; Wee taking it into serious consideration, have thought fit that a considera<g ref="char:EOLhyphen"/>ble summe of money may be raised by a volun<g ref="char:EOLhyphen"/>tary contribution in every Towne, which wee have indifferently computed according to the Note sent to you, and we desire you, whose Names are above written to afford your assistance in promoting of the businesse in your Towneship, and to meet us at the next Sessions, that the Coun<g ref="char:EOLhyphen"/>trey may know what is done therein.</p>
+            <closer>
+               <dateline>Dated <date>the <hi>18.</hi> day of <hi>Aprill, 1650.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Francis Quarles.</item>
+                     <item>Iohn Cleypole</item>
+                     <item>VVilliam Leafield.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Peterborow, 12 l. 00. 00.</p>
+            </postscript>
+         </div>
+         <div type="answer">
+            <pb n="7" facs="tcp:151668:5"/>
+            <head>The Answer to the Petition with a Re<g ref="char:EOLhyphen"/>ply thereunto.</head>
+            <p>Ans. 1 <hi>THey stile it the Petition of the Soak of</hi> Peterbo<g ref="char:EOLhyphen"/>rough, <hi>consisting of</hi> 47. <hi>Parishes and Ham<g ref="char:EOLhyphen"/>blets; Whereas the Soak of</hi> Peterborough <hi>con<g ref="char:EOLhyphen"/>sists of seven Parishes which hath severall Endships or Villages, and the Towne of</hi> Peterborough <hi>hath near as many people in it as all the rest, and the greatest intrest in the Common; and yet the Petitioners could get neither hands to the Petition, nor monie up<g ref="char:EOLhyphen"/>on the Warrants made by three Justices of Peace at the Sessions for Collecting a taxe, they set at the Sessions, for opposing an Act of this present Parliament. They were likewise refused at</hi> Eye, Wainsford, <hi>and</hi> Thornhaugh, <hi>and other places; and yet 'tis stiled the Petition of the Soake of</hi> Peterborough.</p>
+            <p>
+               <hi>Reply.</hi> As was the foundation, so is the structure; for as the Prophet <hi>Isaiah</hi> hath it in another case, <hi>They have made lyes their refuge, and under falsehood have they hid themselves.</hi> For first, this clause is nothing but a con<g ref="char:EOLhyphen"/>geries or heap of falsehoods.</p>
+            <p n="1">1. The Soake of <hi>Peterborough</hi> hath fourteen Parishes, most of which have two or three, some four or five Towns and Villages belonging to them; and some one of these Parishes have near as many people as the Town of <hi>Peter<g ref="char:EOLhyphen"/>borough;</hi> and many single Townes have more Land be<g ref="char:EOLhyphen"/>longing to them, and so more people that have right of Common, then the Town of <hi>Peterborough,</hi> the Com<g ref="char:EOLhyphen"/>mon belonging to their Land. And those who were best affected there, did either subscribe the Petition, or con<g ref="char:EOLhyphen"/>tribute to the promoting it: And for those that refused there, and also at <hi>Thornhaugh, Wainsford,</hi> and <hi>Eye,</hi> the rea<g ref="char:EOLhyphen"/>son is apparant. The mannor of <hi>Peterborough</hi> is lately pur<g ref="char:EOLhyphen"/>chased by the Lord chiefe Justice, St. <hi>John,</hi> and two of the other Towns, are the Earl of <hi>Bedfords,</hi> and great part of the third; yet there they would have subscribed and
+<pb n="8" facs="tcp:151668:6"/> contributed, but that they were threatened by the Bayliff to the said Earl, that they should be turned out of their houses. And yet all these Towns also did contribute to the prefering a former Petition to this Parliament against this undertaking.</p>
+            <p n="2">2. The Paper it selfe, they call a Warrant, being here<g ref="char:EOLhyphen"/>withall printed, will clearely evidence the detracting Spirit of the Answerer, it having neither the face nor re<g ref="char:EOLhyphen"/>sembleance of a Warrant. Nor was there any tax set by the Justices at the Sessions, or at any other time. Onely at a publike meeting (long before the Sessions) at the de<g ref="char:EOLhyphen"/>sire of many Gentlemen Free-holders and Commoners; some Papers were subscribed and directed to severall per<g ref="char:EOLhyphen"/>sons, for a voluntary contribution towards promoting their Petition to the Parliament (which is all the op<g ref="char:EOLhyphen"/>position they made to the Act) which Papers were also subscribed as Commoners, but refused as Justices.</p>
+            <p n="3">3. Although above twenty for one of the persons in<g ref="char:EOLhyphen"/>terested in the Common, having either subscribed or con<g ref="char:EOLhyphen"/>tributed to the prosecuting the Petition; and most of the Gentlemen of quality in the Soake, having attended the Parliament at presenting thereof; It might very well be stiled the Petition of the Soake, yet it was onely inti<g ref="char:EOLhyphen"/>tuled, The Petition of such Inhabitants whose names were thereunto subscribed, and not (as falsely is alleadged) <hi>The Petition of the Soake.</hi>
+            </p>
+            <p>And because the undertakers great pretence is, that they had a Petition from the Soak for Drayning; It will be materiall to expresse the names of some of the princi<g ref="char:EOLhyphen"/>pall Gentlement of quality, that either presented, sub<g ref="char:EOLhyphen"/>scribed, or contributed towards the promoting the said Petition against this undertaking, <hi>(viz)</hi> The Lord <hi>Fitz-William, Humphrey Orme</hi> Senior Esq The Heirs of Sir <hi>Thomas Brown, Thomas Dove</hi> Esq <hi>Francis Quarles</hi> Senior Esq <hi>John Cleypoole</hi> Senior Esq <hi>Edward Palmer</hi> Esquire, <hi>William Stydolfe</hi> Esq <hi>Jo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Teigh</hi> Esq <hi>Hum<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h ey Orme</hi> Jun. Esq <hi>Christopher Thursby</hi> Esq <hi>Francis Quarles</hi> Jun. Esquire, <hi>John Cleypoole</hi> Jun. Esq <hi>William Leafeild</hi> Esq <hi>Matthew
+<pb n="9" facs="tcp:151668:6"/> Robinson</hi> Esq <hi>John Flatcher</hi> Esq <hi>John Wilsby</hi> Esquire, with all the rest of the Gentlemen Free-holders and Commo<g ref="char:EOLhyphen"/>ners in the Soake, (Except some few in the Towns above mentioned and for the reasons aforesaid.) And which of these deserves the Title of the Petition of the Coun<g ref="char:EOLhyphen"/>try? is left to any indifferent Reader (especially them that know that Country) to judge, there not being two Gen<g ref="char:EOLhyphen"/>tlemen of like qualitie, to any of these, that appeare for the Drayning.</p>
+            <p>Ans. 2. For the manner of procuring it. First, <hi>The Pe<g ref="char:EOLhyphen"/>tition was set on foot by Sir</hi> John Maynard, <hi>who sent into the Country for stirring up the people against the Act. The two</hi> Quarles<hi>'s, Justices of the Peace, (who were protected all the War by the Govenours of</hi> Beaver <hi>and</hi> Newark; <hi>and in recom<g ref="char:EOLhyphen"/>pence thereof, they protected my Lord</hi> Lexingtons <hi>Estate in the Parliaments quarters) being first engaged they drew in</hi> Leafeild <hi>and Mr.</hi> Cleypoole, <hi>two other Justices of Peace. These Ju<g ref="char:EOLhyphen"/>stices making use of their Authority, as Justices; procure some others by transacting it at the Sessions, and other publique pla<g ref="char:EOLhyphen"/>ces, as at a hundred Court Leet for the whole Soake; where both the</hi> Quarles<hi>'s</hi> (George Quarles <hi>being Steward there) inci<g ref="char:EOLhyphen"/>ted and stirred up the people to an opposition. And so at a Horse race, where my Lord of</hi> Exeter <hi>was solicited to engage against it, but refused: And yet the better to countenance it in all their meetings, used his name; The Petition being b ought up, Sir</hi> John Maynards <hi>advice is taken in it, and the whole manage<g ref="char:EOLhyphen"/>ment of this affaire is governed by his advice, who in the Kings time was the greatest promoter of Drayning that could be for the King.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Themselves being guilty of procuring indirect Petitions, they would faine fix it also upon others, and blast them in their reputation, as Sir <hi>John Maynard,</hi> the <hi>Quarles</hi>'s, Mr. <hi>Cleypoole,</hi> and Mr. <hi>Leafeild.</hi>
+            </p>
+            <p>But 1. whereas 'tis suggested, that Sir <hi>John Maynard</hi> set the Petition on foot, 'tis well known that this underta<g ref="char:EOLhyphen"/>king was opposed, &amp; a petition formerly presented from the Soake against it, before Sir <hi>John Maynard</hi> was known by any of them, to be any whit concerned. And that Sir
+<pb n="10" facs="tcp:151668:7"/>
+               <hi>John Maynard</hi> sent into that Countrey to stirre up the peo<g ref="char:EOLhyphen"/>ple against the Act, hath as little truth in it, as all their former Allegations, and that in particular, that Sir <hi>John Maynard</hi> promoted the undertaking in the Kings time. For 'tis notoriously known, that Sir <hi>John Maynard</hi> pre<g ref="char:EOLhyphen"/>ferred at <hi>New-market</hi> a Remonstrance in behalfe of the Country against the Earl of <hi>Bedfords</hi> undertakings, and another at <hi>Huntington</hi> against the Kings.</p>
+            <p n="2">2. That the <hi>Quarles</hi>'s were first engaged, and drew in Mr. <hi>Cleypoole,</hi> and Mr. <hi>Leafeild,</hi> is a meere suggestion and groundlesse allegation. For 'tis well known in the Country, that the <hi>Quarles</hi>'s are no further concerned then as to the Common, equally to all the rest; Whereas Mr. <hi>Cleypoole,</hi> and Mr. <hi>Leafeild</hi> (in case the worke pro<g ref="char:EOLhyphen"/>ceed) are in danger to be surrounded in their houses, fields, and severall Grounds.</p>
+            <p>And whereas 'tis falsely and scandelously alleadged, that the <hi>Quarles</hi>'s were protected all the War by the Go<g ref="char:EOLhyphen"/>venours of <hi>Beaver</hi> and <hi>Newark,</hi> and that in recompence thereof, they protected my Lord <hi>Lexingtons</hi> Estate in the Parliaments Quarters: They could wish the Allegation had been true, as to the protection of themselves. For although the Parliament have declared it no crime to be protected, or to pay contribution being under the power of the Enemy (as they were;) yet the <hi>Quarles</hi>'s were so far from being protected, that for their adhering to the Parliament, both their persons and goods have beene seized. They have refused contribution when taxed by the Enemy, and upon all approaches of the Kings party, they were faine to flye for sanctuary to the Paliaments Garrisons, or otherwhere, to obscure and hide them<g ref="char:EOLhyphen"/>selves as some of the Adventurers themselves know.</p>
+            <p>And for protecting the Lord <hi>Lexingtons</hi> Estate in the Parliaments Quarters, 'tis a meere calumnie and de<g ref="char:EOLhyphen"/>traction of the Answerer; but because he and his party have been often biting at the same stone, it will be neces<g ref="char:EOLhyphen"/>sary to make cleare what (is presumed) they aimed at. The Daughters of the Lady <hi>Lexington,</hi> Heires
+<pb n="11" facs="tcp:151668:7"/> to Sir <hi>Thomas Browne,</hi> Infants and Wards, had an Estate, to part whereof, one of the <hi>Quarles</hi>'s was Tenant. And although it was usually termed the Estate of the Lord <hi>Lexington;</hi> yet because in right it appeared to the Com<g ref="char:EOLhyphen"/>mittee (at <hi>Northton</hi> to be the Estate of the said infants, (for which a Rent was paid to the State) it was not se<g ref="char:EOLhyphen"/>questred; and upon the same ground when some other Estate in <hi>London</hi> belonging to the said Infants, was se<g ref="char:EOLhyphen"/>questred as the Lord <hi>Lexingtons,</hi> it was afterwards dis<g ref="char:EOLhyphen"/>charged by the Parliament.</p>
+            <p n="3">3. That the people were stirred to opposition, (other<g ref="char:EOLhyphen"/>wise then by Petition, which the Parliament have de<g ref="char:EOLhyphen"/>clared to be the right of the people) is a manifest un<g ref="char:EOLhyphen"/>truth. But 'tis acknowledged that the businesse was transacted at the houndred Court, it being the proper place for that purpose, for 'tis the chief businesse of that Court to order and regulate what concerns the said Fen. There all Officers for the Fen are elected. There all pre<g ref="char:EOLhyphen"/>sentments are made for Draynes and Banks, and what ever hath referrence to the Fen; and for that reason se<g ref="char:EOLhyphen"/>verall Justices of Peace, and the best Free-holders of the Soake, have alwaies frequented and been present at that Court.</p>
+            <p>How far the Earl of <hi>Exeter</hi> assented or disagreed, will appeare in its proper time. But the said Earl being at <hi>London,</hi> and a quiet and peaceable discharge by the Com<g ref="char:EOLhyphen"/>moners, being represented unto him by the undertakers, under the notion of an exorbitant riot; nay, no lesse then treason, neither the said Earl, nor any sober man had reason to avow it.</p>
+            <p>Ans. III. <hi>For the matter of the Petition.</hi>
+            </p>
+            <p n="1">1. They mention the grounds upon which the Parlia<g ref="char:EOLhyphen"/>ment past the Act (not one whereof are mentioned in the Act) and conclude them to be all false.</p>
+            <p n="1">1. <hi>They saie they never desired to be Drained by the underta<g ref="char:EOLhyphen"/>kers, nor gave any consent thereto but opposed it.</hi>
+            </p>
+            <p n="2">2. <hi>They were not fully heard, nor their witnesses examined.</hi>
+            </p>
+            <p n="3">3. <hi>That their grounds are not hurtfully surrounded, their
+<pb n="12" facs="tcp:151668:8"/> Land being generally worth,</hi> 10. s. 12. s. <hi>and</hi> 20. s. per <hi>Acre: all the hurt they receive by the water, is for want of scouring draynes in</hi> Thorney, <hi>and from a new worke made at</hi> Whitlesea, <hi>from this and two opinions, one,</hi> 1 Jac. <hi>that adjudges under<g ref="char:EOLhyphen"/>taking drayning a monopoly; and the Declaration of</hi> Decemb. 1641. <hi>that cals it an oppression and project, they pray they may not be concluded in the Act.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> That not one of the grounds of the Petition, are mentioned in the Act is clearly otherwise; It is in the very frontispiece of the Act, and the foundation upon which all the structure is erected, <hi>(viz.) That the said level by reason of frequent overflowings is of small and uncertaine pro<g ref="char:EOLhyphen"/>fit;</hi> which words do necessarily imply a hurtful surround<g ref="char:EOLhyphen"/>ing: For the other grounds, the Petitioners are not po<g ref="char:EOLhyphen"/>sitive in them, but with submission, and that they had good reason to conceive that the Act was passed upon those grounds and informations will appear. 1. For that the adventurers and their Agents, did frequently heretofore affirme (what they have also now imprinted) that the Petitioners did consent, and that they were ful<g ref="char:EOLhyphen"/>ly heard. 2. For that the Parliament upon the Ordi<g ref="char:EOLhyphen"/>nance, did give order that all the Counties interessed should have notice and be heard, whereupon no doubt they did conceive upon the passing of the Act; that they were all fully heard.</p>
+            <p>Ans. <hi>To answer the particulars of this Petition, it will be necessarie to set downe the state of Drayning, and the proceed<g ref="char:EOLhyphen"/>ings thereupon, which will sufficiently evidence the falsnesse, boldnesse, and unreasonablen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sse of this Petition.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> The Answer to the particular of this Petition is so full of prevarication, and equivocation, that the dis<g ref="char:EOLhyphen"/>covery thereof, will sufficiently evidence the falsenesse and boldnesse of the said Answer, and unreasonableness of the said undertaking.</p>
+            <p>Ans. <hi>At a Commission of Sewers held</hi> 6 Car. <hi>at</hi> Lin. <hi>every County in the Level, Petitioned</hi> Francis <hi>late Earl of</hi> Bedford, <hi>to undertake the work of drayning, and offered him</hi> 95000 <hi>Acres for his recompence; and the Commission of Sewers which were</hi>
+               <pb n="13" facs="tcp:151668:8"/> 47 <hi>in number (all land-owners) made it their suit, in behalf of themselves and the Country, requested thereunto by the Grand-Juries; upon this and many former Petitions made unto him for that purpose, he then made a centract, and not one man opposed it.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> 1. Here the answerer already begins to prevaricate, and cals the Petition of a part (and that Inconsiderable) the Petition of the County. For in the Soake of <hi>Peter<g ref="char:EOLhyphen"/>borough▪</hi> (and so 'tis presumed it was done in other Coun<g ref="char:EOLhyphen"/>ties) the adventurers by their Agents, got a Petition of their own contriving, subscribed by some of the Earl of <hi>Bedfords</hi> tenants, and some few other persons interessed with them: Whereas twenty times as many, and divers of them having ten times as much interest as any of the subscribers, never consented but alwaies opposed it; and yet this is stiled by them, the Petition of the County.</p>
+            <p n="2">2. For the Commission of Sewers held at <hi>Lin.</hi> 'tis notoriously known at whose instance it was sued out; and how the Commissioners acted; Many of them being Judges and parties drive on the designe of undertaking, and when any would not comply, the Commissions were presently renewed, and such left out; As the Lord <hi>North,</hi> Sir <hi>Roger North,</hi> Sir <hi>Dudly North,</hi> and others: And in case the Grand-Juries had desired any undertaking, it little or no whit concerned them, being most upland<g ref="char:EOLhyphen"/>ers, especially in the County of <hi>Northampton,</hi> there being but one hundred (which is the Soak) in that County con<g ref="char:EOLhyphen"/>cerned, which Soak hath also particular jurisdiction, and Grand-Juries of their own, who protest against any such request.</p>
+            <p n="3">3. They say the Earl made a contract, but alleadge not with whom; 'Tis clear that it was not with the ma<g ref="char:EOLhyphen"/>jor part of the Commoners and owners (as it ought) ac<g ref="char:EOLhyphen"/>cording to the Statute of 43 of <hi>Eliz.</hi> chap. 11. But per<g ref="char:EOLhyphen"/>haps the Commissioners might make a contract with themselves, and some others; for a pretence, under co<g ref="char:EOLhyphen"/>lour of a tax imposed, and not paid accordingly. And how legall such imposition and contract was, the Peti<g ref="char:EOLhyphen"/>tioners desire onely that they may be at liberty to deter<g ref="char:EOLhyphen"/>mine by the Law. But the adventurers know well enough
+<pb n="14" facs="tcp:151668:9"/> the illegallity of those proceedings. And therefore have sheltered themselves with an Act of Parliament; and yet those proceedings also are the grounds of their Act.</p>
+            <p>Ans. <hi>The Earl and his participants expended</hi> 120000. l. <hi>in it, and brought it to great perfection within six years, and then was outed by the late King, who tooke not onely the</hi> 95000. <hi>Acres but</hi> 57000 <hi>more.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> The worke was brought to such perfection, on<g ref="char:EOLhyphen"/>ly that according to the words of the Act, <hi>They divided the lands amongst themselves by lots and shares,</hi> &amp; for securing their own part (which was all the best ground in <hi>Peter<g ref="char:EOLhyphen"/>borough</hi> Fen:) they made all the remainder there, in a worse condition then before their undertaking, and by a Jury at <hi>Huntington,</hi> it was found that the Earl had not meliorated the said levell, and therefore was justly outed: And what proportion soever was allotted to the King at <hi>Huntington,</hi> it never was taken by him, as was unjustly done by the said Earl and his participants, who assigned to the King (by colour of their <hi>Lin.</hi> Law) what was taken by him out of <hi>Burrough</hi> Common.</p>
+            <p>Ans. About <hi>Decemb.</hi> 1641. <hi>a Bill was brought in for confir<g ref="char:EOLhyphen"/>mation of</hi> Lin. <hi>Law, and was committed, but by the death of the Earl of</hi> Bedford, <hi>and the War comming on, the prosecution thereof was laied downe, but afterwards revived againe by se<g ref="char:EOLhyphen"/>verall Petitions, amongst which was one from divers Inhabitants of the Soake of</hi> Peterborough, <hi>whereupon an Ordinance was brought in and committed.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> A Bill was brought in, but so unreasonable, that it was opposed by all the severall Counties, and par<g ref="char:EOLhyphen"/>ticularly by the Soake of <hi>Peterborough;</hi> and thereupon 'tis most probable (the Parliament at that time having re<g ref="char:EOLhyphen"/>monstrated against undertaking without consent of par<g ref="char:EOLhyphen"/>ties interessed) the prosecution of it was laid down. What Petitions were presented for the reviving of it out of the Country, were doubtlesse procured by the same Art, and indirectly, as was one from an inconsiderable party of the Soak of <hi>Peterborough;</hi> For the undertakers having erected a Sluce and some new works near <hi>Whittlesea,</hi> which hurt<g ref="char:EOLhyphen"/>fully
+<pb n="15" facs="tcp:151668:9"/> surrounded all the Meadowes, being many thou<g ref="char:EOLhyphen"/>sand Acres from <hi>Peterborough</hi> to <hi>Wansford</hi> and upwards. The Agents for the adventurers contrived a Petition un<g ref="char:EOLhyphen"/>der colour of pulling downe the Sluce, and cunningly inserted some thing that tended to Drayning: Where<g ref="char:EOLhyphen"/>upon the Tenants to the said Earl and some others that desired to be rid of their grievance (the Sluce) subscri<g ref="char:EOLhyphen"/>bed the Petition, but are ready to avow that their intent was onely to pull up that Sluce and not to drayne; and the Agent who procured hands to the said Petition, hath lately acknowledged, that he was faine to butter it over with the Sluce, and how mean a party the subscribers were, will appear by the opposers as formerly is decla<g ref="char:EOLhyphen"/>red.</p>
+            <p>Ans. <hi>The Committee (where none were to have voice that had any interest in the undertaking, but yet all owners in the Coun<g ref="char:EOLhyphen"/>try were) before they proceeded, sent Letters by the Chair-man to the severall Sheriffs of the Counties of</hi> Norfolke, <hi>&amp;c. to give notice to the Inhabitants, that an Ordinance was referred to the Committee for drayning the Fens; and that such as desired to be beard, should attend the Committee: and in these letters, copies of the Ordinance were inclosed, and accordingly notice was given.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> 'Tis true, the Parliament (who intinded the bu<g ref="char:EOLhyphen"/>sinesse should be carried impartially) did order that no undertaker should be of the Committee: but notwith<g ref="char:EOLhyphen"/>standing many undertakers, sharers, and parties inte<g ref="char:EOLhyphen"/>rested with them did fit, and vote, and adjurne, and manage all the businesse on the behalf of the undertakers, and some of them were then challenged in that respect by the Countries.</p>
+            <p>Ans. <hi>Thereupon many of the Country came in and objected not so much to the dra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ning, as to the miscarriage of it in former times: And in particular, some of the Inhabitants of the Soak of</hi> Peterborough, <hi>for whom one of the great promoters of this Peti<g ref="char:EOLhyphen"/>tion,</hi> George Quarles <hi>was of Councell, who with divers other Councell were heard all they could say, and so was Sir</hi> John Maynard <hi>himself, and witnesses examined on all parts, and par<g ref="char:EOLhyphen"/>ticularly
+<pb n="16" facs="tcp:151668:10"/> some of the Inhabitants of the Soake of</hi> Peterborough, <hi>by whom it was proved, that</hi> Burrow <hi>Common, mentioned in the Petition, where my Lord of</hi> Bedford <hi>first began his draining, was not worth six pence the Acre, but by his drayning made worth ten shillings: and many amendments were made in the Ordinance at their desire, and the severall clauses now in the Act, for the benefit of the Country, were brought in by the Councell of the Country, and assented unto.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> The Countries did come in, and both by Peti<g ref="char:EOLhyphen"/>tions and their Councell did appose this undertaking; and (as their severall conditions were) some objected to the drayning it self, others to the miscarriage, not onely in former times, but by the present undertakers: And 'tis utterly denied that the Inhabitants of the Soake, by themselves or Councell did desire being in, or assent unto any amendments in the Ordinance, or clauses now in the Act: And that witnesses were examined on all parts is a grand untruth. The undertakers examined to the full on their parts, but not above three or four (and those onely on the part of the Isle of <hi>Eley</hi>) were ex<g ref="char:EOLhyphen"/>amined on behalfe of all the six Counties, that some In<g ref="char:EOLhyphen"/>habitants of the Soake were examined, or any at all in behalf of the Soake is otherwise; There was onely one which was a Tenant to the Earl of <hi>Bedford,</hi> and he was not examined for, but against the Soake; and yet he was more ingenuous then the answerer, to affirme so grosse an untruth, as that <hi>Burrow</hi> Common was not worth six pence the Acre before the undertaking, for he well knew the contrary: all that he affirmed was, that he conceived <hi>Burrow</hi> Fen improved by the Earls underta<g ref="char:EOLhyphen"/>king, or words to that effect; And yet that will clearly appear otherwise if rightly understood.</p>
+            <p>'Tis true, that part the undertakers tooke for them<g ref="char:EOLhyphen"/>selves, they imbanked and kept out the water, and so improved, but left all the Common a recepticle and bed for the water, and so made that worse then heretofore.</p>
+            <p>Ans. <hi>Before the Committee these things were in question a<g ref="char:EOLhyphen"/>mongst others.</hi> 1. <hi>What title the Earl of</hi> Bedford <hi>had to this
+<pb n="17" facs="tcp:151668:10"/> worke.</hi> 2. <hi>Whether the levell was hurtfully surrounded.</hi> 3. <hi>Whether the worke was seasible.</hi> 4. <hi>Whether it were beneficiall; and witnesses examined to all these points, That there were neare fifty hearings in the space of almost three years, and all sides heard, &amp;c. (which appears at large in the Chaire-mans book) and upon the report thereof the Act passed.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> That the Earls title was questioned is true; the Countries all opposed it, and were and are ready to try the validity of it with him at Law (in case they may be permitted;) but the undertakers well knew the weak<g ref="char:EOLhyphen"/>nesse thereof, and therefore waved that point, and fell upon the others which were collaterall, and best made way for their Act: And for the benefit of the worke, their proofs went onely to particular men, who had im<g ref="char:EOLhyphen"/>banked and plowed; but this benefit cannot redound to the Petitioners (being Commoners:) They cannot plow nor sow, but must onely eat their Commons with their Cattle: That witnesses were examined to all these points on the parts of the undertakers may be true; but that all sides were heard, (otherwise then aforesaid) is utterly false, neither can any such thing (if truly taken) appear in the Chaire-mans book.</p>
+            <p>Ans. <hi>The Act being past, the Earl and his participants the last Summer and this, have raised and expended</hi> 50000. l. <hi>which with the</hi> 120000. l. <hi>principall, and interest formerly expended thereupon makes near</hi> 300000.</p>
+            <p>
+               <hi>Reply.</hi> What monies the Earl and his participants ex<g ref="char:EOLhyphen"/>pended was in their own wrong: nor is it any great dif<g ref="char:EOLhyphen"/>ficulty to raise and expend great summes of money, when the estates of the Petitioners and other Countries must be first sold for the raising it.</p>
+            <p>Ans. <hi>This being the true state of the businesse as it appeared before the Committee, the contrary to what the Petitioners af<g ref="char:EOLhyphen"/>firme appears to be true; as that,</hi> 1. <hi>They were fully heard, and witnesses examined.</hi> 2. <hi>That they were hurtfully surrounded.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> The businesse is generally mistated by the An<g ref="char:EOLhyphen"/>swerer: that onely being alledged which tends to his own purpose; but it consisting most in matter of fact,
+<pb n="18" facs="tcp:151668:11"/> the Petitioners desire onely that liberty, and they doubt not clearly to prove what they alleadge, and to make appear the contrary what the undertakers affirme to be true; as that, 1. They were not fully heard, they ne<g ref="char:EOLhyphen"/>ver having one witnesse examined. 2. They never con<g ref="char:EOLhyphen"/>sented but alwaies opposed the said undertaking. 3. That they are not hurtfully surrounded.</p>
+            <p>Ans. <hi>The Petitioners equivocate with the Parliament, and say</hi> Burrow Common is not hurtfully surrounded, <hi>that is true; for the workes made by the undertakers draine them, and till that was done they never stirred, but before the undertaking it was a Quagmire, usefull for nothing but fishing and fowling, as appears by the Statutes of</hi> 32 H. 8. 13. &amp; 43 Eliz. 11.</p>
+            <p>
+               <hi>Reply.</hi> In case any workes had been made by the un<g ref="char:EOLhyphen"/>dertakers which drayne <hi>Burrow</hi> Common, it is no more then the Earl of <hi>Bedford</hi> of right ought to do, his Mannor of <hi>Thorney</hi> lying next adjoyning, and the neglect of his drain being the greatest prejudice to <hi>Burrow</hi> Fen: But (in case the undertakers durst abide a legall triall) it would easily be made appear, that <hi>Burrow</hi> Fen was in as good a condition before the undertaking as since (for ought that's done by the undertakers:) But the Petitioners themselves of late years have by voluntary contributi<g ref="char:EOLhyphen"/>ons, and by letting out part of their Common, raised severall summes of money, and have thereby repaired their bankes, and scoured their draines, to the good improvement of their said Common.</p>
+            <p>And for those two Statutes, they make little for their advantage, if rightly taken; Tis well known that Sta<g ref="char:EOLhyphen"/>tutes looke to the generallity; and the Levell (as tis cal<g ref="char:EOLhyphen"/>led) consists of near 400000 Acres, whereof <hi>Peterborough</hi> Fen is an inconsiderable part, and as one of those Sta<g ref="char:EOLhyphen"/>tutes tearmes it, and the Answer it self; <hi>But a borderer.</hi> And in case <hi>Burrow</hi> Fen was within the meaning of those Statutes, yet how absurd a conclusion doth the Answer<g ref="char:EOLhyphen"/>er draw from thence <hi>(viz.) Burrow</hi> Common was hurt<g ref="char:EOLhyphen"/>fully surrounded, 32 <hi>H.</hi> 8. and therefore it is so now. It might be then drowned, and now good ground, as re<g ref="char:EOLhyphen"/>ally it is.</p>
+            <pb n="19" facs="tcp:151668:11"/>
+            <p>Ans. <hi>That the draining drownes many thousand Acres of rich meadowes is untrue; It must in reason ease the meadowes because the out-fell is deeper, and the floods go to the Sea by a nearer cut, and if any damage hath beene of late done to the meadowes by floods, it is by a banke made at</hi> Orton, <hi>a mile above</hi> Peterborough, <hi>whereby the meadowes above that banke are worse, but those below are bettered.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> To evince the falshood of this particular, experi<g ref="char:EOLhyphen"/>ence is the strongest and surest evidence; and they below that damme at <hi>Orton</hi> find by sad experience, that they are much drowned as those above, and that by the un<g ref="char:EOLhyphen"/>dertakers workes.</p>
+            <p>Ans. <hi>The undertakers workes are so far from drowning any other grounds that they secure all</hi> Holland and Marshland, <hi>and takes from them the charge and danger, so that nothing but ma<g ref="char:EOLhyphen"/>lice could object that the undertakers drowned their grounds to draine these.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Had the Answerer but meere naturall Logick, he could never have drawne this conclusion from such premises, <hi>(viz.)</hi> That the Undertakers secure <hi>Holland,</hi> therefore they drowne no other ground, they may se<g ref="char:EOLhyphen"/>cure one place, and yet drowne another as they doe. And that their works doe so and will doe more, is de<g ref="char:EOLhyphen"/>monstrable in reason; for although there were a nearer cut and greater outfall then before, yet the water which in floods useth to expatiate many miles, all over <hi>Whittle<g ref="char:EOLhyphen"/>sea</hi> and <hi>Thorney</hi> Lordships, eaven to the Coasts of <hi>Halland,</hi> being to be contracted within banks, must needs rise much higher, and continue longer, which hath evidently appeared these late yeares, since the unbanking onely on the South side the River <hi>Neve;</hi> how much more will it be when 'tis unbanked on the North side also.</p>
+            <p>Ans. <hi>For the Judgement in Parliament,</hi> 1 Jacob. <hi>There is no such thing.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> 'Tis well knowne that Sir <hi>Miles Sands</hi> a great adverturer at this time, did in 1 <hi>Jacob▪</hi> promote this bu<g ref="char:EOLhyphen"/>sinesse of Drayning, which being then well understood, and opposed by Sir <hi>Edward Cooke,</hi> King <hi>James</hi> also made
+<pb n="20" facs="tcp:151668:12"/> a speech against it, and so it was rejected.</p>
+            <p>Ans. <hi>For that Remonstrance in</hi> Decemb. 1641. <hi>It appears to be ment of improvement, made by the King as Lord of divers Mannours upon great wasts. And that this worke of Drayning was not intended in this Declaration is cleare, because at that time the Earl of</hi> Bebfords <hi>Drayning was countenanced by the Parliament, and a Bill committed for establishing it.</hi>
+            </p>
+            <p>
+               <hi>Replie.</hi> Sure the Answerer cannot be so ignorant, as he seemes to be, for that this Drayning was intended by the Parliament, is evident by the words of their Remon<g ref="char:EOLhyphen"/>strance <hi>(viz.) Large quantities of Commons, and severalls have been taken awaie from the subjest, by abuse of the Com<g ref="char:EOLhyphen"/>missions of Sewers, without their consents and against it.</hi> And till the Answerer can produce some presidents of Com<g ref="char:EOLhyphen"/>missions of Sewers issued out for improving Vp-Lands; 'tis hoped he will give others leave to think that this Drayning was intended in the said Remonstrance. Be<g ref="char:EOLhyphen"/>sides, that very clause was inserted in the said Remon<g ref="char:EOLhyphen"/>strance, upon the Petition of <hi>Lincolneshire</hi> Gentlemen, a<g ref="char:EOLhyphen"/>gainst the Earl of <hi>Lindfeyes</hi> undertaking, which stood up<g ref="char:EOLhyphen"/>on the same bottome with this of the Earl of <hi>Bedfords.</hi>
+            </p>
+            <p>Ans. <hi>They saie,</hi> It's a monopilie against <hi>Magna Charta,</hi> and the Petition of Right. <hi>Whereas Parliaments have al<g ref="char:EOLhyphen"/>waies been of another minde, as appeares by the Statute,</hi> 23. <hi>of</hi> Eliz. 13 <hi>The Stat. of</hi> Jac. <hi>Chap.</hi> 8. <hi>Which encourge Drayning, and give the undertakers halfe, and more. And the Earl of</hi> Bed<g ref="char:EOLhyphen"/>ford <hi>hath but the fourth part. And so</hi> 4 Jac. 13. &amp;c. 43. Eliz. 11. <hi>are excellent Statutes for encouragement of undertaking drowned Grounds.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here the Answerer still prosecutes his trade of Juggling, and (to delude the people, and asperse the Pe<g ref="char:EOLhyphen"/>titioners) confounds legall and illegall Drayning, and affirmes (though falsely) that the Petitioners call all Drayning a Monopily, and project, which is otherwise; For the Petitioners onely (according to the Declarati<g ref="char:EOLhyphen"/>on of Parliament) terme that a monopilie, which is by abuse of the Commissions of Sewers, and against consent of parties interessed, as this undertaking was. And had
+<pb n="21" facs="tcp:151668:12"/> these Undertakers proceeded, as the Undertakers by the three first mentioned Statutes (which was according to to the Statue 43. <hi>Eliz.</hi>) by contract with the parties in<g ref="char:EOLhyphen"/>teressed, they had not been opposed by the Petitioners. And whereas 'tis affirmed that the Earl had but a fourth part. There was taken from the Petitioners by colour of the Commission of Sewers, above a third part, and that of the best Ground in their Common. And by the Act the Undertakers are to have the same proportion againe.</p>
+            <p>Ans. <hi>The Scope of all is, that the Parliament should main<g ref="char:EOLhyphen"/>taine their owne Act. That the Petition may be cast out of the House, and the promoters left to the Law, for the reasons before insisted upon; And further, for that the Petitioners stir'd not till a yeare after the Act passed, and those workes done in parti<g ref="char:EOLhyphen"/>culer which should secure them.</hi>
+            </p>
+            <p n="2">2. <hi>It would be mischievous to the Common-wealth, to give any countenance to this Petition; for by the same reason the Act for the Engagement,</hi> taking away Kingship &amp;c. <hi>may be Peti<g ref="char:EOLhyphen"/>tioned against. And 'tis not doubted but that Sir</hi> John May<g ref="char:EOLhyphen"/>nard <hi>waits for some colour of a ground, to set on foot some practise against those Lawes.</hi>
+            </p>
+            <p n="3">3. <hi>For that the Petition complaines of nothing, but what the Act hath made full provision in. And in all cases of difference the Commissioners are to judge. And the Petitioners have not so much as made any addresse to the Commissioners, but conclude them all parties interested, and so appeale from them.</hi>
+            </p>
+            <p>
+               <hi>Replie.</hi> That the Petitioners never stirred till a yeare after the Act, is clearely otherwise.</p>
+            <p n="1">1. The Petitioners did oppose this undertaking, and brought in their Exceptions against the Bill exhibited by the said Earl 1641. Also they opposed the Ordinance brought in for passing this Act (as the Answerer himself confesseth) three yeares before the Act passed. But the Answerer hath so used himselfe to falsifie, that he will contradict what himselfe before affirmed, if it make for his advantage.</p>
+            <p n="2">2. It would be very mischievous to the Common-Wealth,
+<pb n="22" facs="tcp:151668:13"/> if the subjects thereof should be deprived of the liberty of Petitioning against things established by Law, so that it be done with sobriety and submission to the present Government (as this Petition was.) And this present Parliament have declared it the people Right to preferre, and their Duties to receive such Petitions. And it is a great boldnesse in the Answerer, to terme that a mischiefe which the Parliament have declared to be the peoples Right. But they who for their own interest, (in opposition to the Parliament) did endeavour with fire and sword to establish Kingship, nay, Tyrannie, can for their own advantage wheele about, and lay that imputa<g ref="char:EOLhyphen"/>tion upon others, who alwaies have adhered to the Par<g ref="char:EOLhyphen"/>liament, (as Sir <hi>John Maynard</hi> and others) having well learnt that machivilian Rule. <hi>Charge home (though never so false) some things will stick.</hi>
+            </p>
+            <p n="3">3. There is some seeming provision made by the Act, but the Commissioners have no power to apply it, till first the Petitioners be put out of possession, which is one of the Petitioners greatest grievance. And to what end should the Petitioners addresse themselves to the Com<g ref="char:EOLhyphen"/>missioners, when they have no power to give redresse. And that some of the Commissioners are parties interes<g ref="char:EOLhyphen"/>sed, the Undertakers themselves well know, and have lately acknowledged. But that the Petitionets doe con<g ref="char:EOLhyphen"/>clude them, all parties is one of the Answerers false reci<g ref="char:EOLhyphen"/>tals, The Petitioners onely desiring that no parties in<g ref="char:EOLhyphen"/>teressed may be Judges and Parties.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151668:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
